@@ -2,4 +2,4 @@
 
 ## Materiais utilizados para a realização do projeto
 
-https://github.com/digitalinnovationone/trilha-react-desafio-2 \
+https://github.com/digitalinnovationone/trilha-react-desafio-2
